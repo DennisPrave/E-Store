@@ -16,6 +16,9 @@
         }
         toggleNavbarMethod();
         $(window).resize(toggleNavbarMethod);
+
+        
+        
     });
     
     
